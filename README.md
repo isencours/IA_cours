@@ -1,4 +1,4 @@
-# IA_embarqu-e
+# IA_cours
 
 Ce cours est basé sur les cours suivants: 
 * https://github.com/tinyMLx/colabs , 
